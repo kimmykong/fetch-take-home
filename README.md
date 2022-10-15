@@ -1,7 +1,7 @@
 # fetch-take-home
  
 There are 3 files for this project. To run the project you will need:
-1. python and a prompt like Anaconda
+1. <a href="https://www.python.org/downloads/">python</a> and a prompt like <a href="https://docs.anaconda.com/anaconda/install/index.html">Anaconda</a>
 2. Flask <code> pip install Flask </code>
 3. Jupyter notebook <code> pip install notebook </code>
 
